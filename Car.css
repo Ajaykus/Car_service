@@ -1,0 +1,78 @@
+#uperlayer {
+    background-color: yellow;
+    text-align: center;
+}
+
+#nav{
+    background-color: white;
+}
+#logo{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #t1{
+    color: black;
+  }
+  .h3{
+    color:rgb(105, 105, 225);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+
+  }
+  .p1{
+    color: rgb(69, 68, 68);
+    font-size: medium;
+  }
+  .p2{
+    color: rgb(69, 68, 68);
+    font-size: medium;
+    text-align: center;
+
+
+  }
+  #bt{
+    background-color: rgb(70, 70, 165);
+    font-size: 25px;
+    color: white;
+    border-radius: 12px;
+  }
+  .hed{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  .img{
+    display: block;
+    margin: auto;
+    width: 30%;
+  }
+  .hed1{
+    text-align: center;
+    font-size: xx-large;
+  }
+  #btm{
+    background-color: rgb(53, 45, 45);
+    padding: 0px 0px 0px 50px;
+  }
+  .btm_hed{
+    color: gray;
+
+  }
+  .T1{
+    color: white;
+
+  }
+  .C1{
+    margin: 95px ;
+    
+  }
+  #img2{
+    display: block;
+    margin: auto;
+    max-width: 30%;
+
+  }
+  #li{
+    padding: 10px;
+  }
